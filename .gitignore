@@ -301,6 +301,12 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
+# pnpm, turbo, build cache
+.turbo/
+dist/
+build/
+.next/
+
 # Visual Studio 6 build log
 *.plg
 
